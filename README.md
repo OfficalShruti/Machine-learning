@@ -9,6 +9,7 @@ Did you consider any other choice of algorithm?Why or why not?
 What is the accuracy? 
 What are the different types of metrics that can be used to evaluate the model?
 ------------------------------------------------------solution-----------------------------------------------------------------------------------------------------------
+
 Why did you choose the particular algorithm?
 I have chosen Random Forest Classifier for many reasons:
 
